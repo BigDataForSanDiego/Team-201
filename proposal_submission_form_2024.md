@@ -5,18 +5,18 @@
 #### Team Name: Data Hawks   
   
 #### Your team's hackathon idea in One sentence:
-##### An AI-powered translatition software that allows doctors and patients to communicate across language boundaries.
+##### An AI-powered translation software that allows doctors and patients to communicate across language boundaries.
 
 
-#### A visual
-![bigdatahackathonsdsu2024]([http://url/to/img.png](https://www.datocms-assets.com/85985/1718725987-translation-cover.png?auto=format))
+
+![bigdatahackathon4sd](1718725987-translation-cover.png?raw=true "Big Data Hackathon for San Diego 2024")
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
 #### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
 -->
 
-#### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
+#### Hackathon Five CORE Themes. 
 - [ ] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
 - [ ] Patient satisfaction
@@ -28,7 +28,7 @@
 - [ ] Addressing mental health challenges
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
-#### Optional Questions. `TEAMS CAN SELECT ONE ADDITIONAL OPTIONAL QUESTION (insert X in [ ])`
+#### Optional Questions.
 - [X] Cultural Competence in Healthcare
 > How can we design a mobile app that helps healthcare providers better understand and respect cultural differences, improving communication and care for diverse patient populations?
 - [ ] Access to Care for Rural and Remote Communities
@@ -41,5 +41,4 @@
 
 #### Team Coordinator GitHub Username: Joestar-V
 
-#### Team Members Joseph Valencia
-
+#### Team Members Joseph Valencia (Joestar-V), Joshua Alonso, Jose Hernandez (penguin645) 
