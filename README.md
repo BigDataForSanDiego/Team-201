@@ -43,4 +43,4 @@
 
 #### Team Coordinator GitHub Username: Joestar-V
 
-#### Team Members Joseph Valencia (Joestar-V) ,Joshua Alonso, Jose Hernandez 
+#### Team Members Joseph Valencia (Joestar-V), Joshua Alonso, Jose Hernandez (penguin645) 
