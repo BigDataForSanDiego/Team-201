@@ -8,7 +8,6 @@
 ##### An AI-powered translatition software that allows doctors and patients to communicate across language boundaries.
 
 
-#### A visual
 
 ![bigdatahackathon4sd](1718725987-translation-cover.png?raw=true "Big Data Hackathon for San Diego 2024")
 
