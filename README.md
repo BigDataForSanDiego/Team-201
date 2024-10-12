@@ -10,8 +10,7 @@
 
 #### A visual
 
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/Team-201/commit/5bf7e13390f8b6f19e9ae9d2edb0b28dfb5bae31)
-<img height="10%" width="50%" alt="HDMA" src="[https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true](https://www.datocms-assets.com/85985/1718725987-translation-cover.png?auto=format)"> 
+![bigdatahackathon4sd](1718725987-translation-cover.png?raw=true "Big Data Hackathon for San Diego 2024")
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
