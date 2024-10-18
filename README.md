@@ -5,8 +5,7 @@
 #### Team Name: Data Hawks   
   
 #### Your team's hackathon idea in One sentence:
-##### An AI-powered translation software that allows doctors and patients to communicate across language boundaries.
-
+##### A Google Maps-powered app that provides an easily navigable interface for patients searching for healthcare
 
 
 
