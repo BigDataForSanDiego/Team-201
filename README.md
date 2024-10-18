@@ -8,8 +8,9 @@
 ##### An AI-powered translation software that allows doctors and patients to communicate across language boundaries.
 
 
+![image](https://github.com/user-attachments/assets/b4a02422-66ca-4cac-b40f-c53545befcfd)
 
-![bigdatahackathon4sd](1718725987-translation-cover.png?raw=true "Big Data Hackathon for San Diego 2024")
+![bigdatahackathon4sd](https://github.com/user-attachments/assets/b4a02422-66ca-4cac-b40f-c53545befcfd)
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
